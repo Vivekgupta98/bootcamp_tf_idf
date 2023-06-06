@@ -4,7 +4,9 @@ Live Session code
 Get the dataset from 'data' branch of https://github.com/prabaljainn/Leetcode-Questions-Scrapper/tree/data
 
 Links to Session Recordings:
+
 Part 1: https://www.youtube.com/watch?v=ZHQfLzd-c3c
+
 Part 2: https://www.youtube.com/watch?v=uAixAi-z7uk
 
 ## Steps to run the code
